@@ -1,4 +1,5 @@
 @extends('layouts.auth-admin')
+
 @section('content')
     <div class="container">
         <div class="row">
