@@ -16,7 +16,7 @@
                         <div class="col-sm-12 col-md-6">
                             <div class="form-group">
                                 <label for="">Alamat Email</label>
-                                <input type="text" name="email" placeholder="Email of the user" value=""
+                                <input type="text" name="email" placeholder="Email Pengguna" value=""
                                     class="form-control" required>
                             </div>
                             <div class="form-group">
@@ -34,7 +34,7 @@
 
                             <div class="form-group">
                                 <label for="">No.Telepon</label>
-                                <input type="text" name="phone" placeholder="Phone" value="" class="form-control"
+                                <input type="text" name="phone" placeholder="No. Telepon" value="" class="form-control"
                                     required>
                             </div>
 
@@ -42,7 +42,7 @@
                         <div class="col-sm-12 col-md-6">
                             <div class="form-group">
                                 <label for="">Alamat</label>
-                                <input type="text" name="address" placeholder="Address" class="form-control">
+                                <input type="text" name="address" placeholder="ALamat" class="form-control">
                             </div>
 
                             <div class="form-group">
